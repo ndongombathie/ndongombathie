@@ -1,5 +1,5 @@
 # 👋 Salut, moi c’est Ndongo MBATH
-💻 Développeur Full-Stack | 🎓 Étudiant en Master Ingénierie Logicielle & IA
+💻 Développeur | 🎓 Étudiant en Master Ingénierie Logicielle & IA
 
 Passionné par le développement logiciel, les architectures backend, la data engineering et l'intelligence artificielle, je construis des applications utiles, robustes et évolutives.
 

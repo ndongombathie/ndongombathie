@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Ndongo MBATH
 💻 Développeur | Étudiant en Master Ingénierie Logicielle & IA
 
-Passionné par le développement logiciel, les architectures backend, la data engineering et l'intelligence artificielle, je construis des applications utiles, robustes et évolutives.
+Passionné par le développement logiciel, les architectures, la data engineering et l'intelligence artificielle, je construis des applications utiles, robustes et évolutives.
 
 Master — Ingénierie Logicielle & Intelligence Artificielle
 École Polytechnique de Thiès
